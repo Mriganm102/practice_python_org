@@ -5,4 +5,4 @@ def division(x):
         if x % a == 0:
             list_of_numbers.append(a)
     print(list_of_numbers)
-division(2)
+division(10)
