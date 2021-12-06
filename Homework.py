@@ -21,4 +21,8 @@
 #Reach Goal : Skim 20,23,24
 #Do 10 html tags
 
+#11/22/21
+#Do 10 HTML Tags
+#Add the other HTML tags to the other tags
+#Do projects 20,23,24
 
