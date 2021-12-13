@@ -26,3 +26,7 @@
 #Add the other HTML tags to the other tags
 #Do projects 20,23,24
 
+#12/6/21
+#Work on exercises 25,26,27
+#do 10 more tags
+

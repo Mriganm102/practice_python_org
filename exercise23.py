@@ -11,6 +11,4 @@ for x in set1:
         if x == y:
             dicti[x] = dicti[x] + 1
 print(dicti)
-for x in list1:
-    print(x)
 
