@@ -30,3 +30,9 @@
 #Work on exercises 25,26,27
 #do 10 more tags
 
+#12/13/21
+#Convert exercises 25,26,27 into classes
+#Do 10 HTML tags
+#Do exercises 28,29,30,31
+#Explain these code smells - https://deviq.com/antipatterns/code-smells/
+
