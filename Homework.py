@@ -36,3 +36,9 @@
 #Do exercises 28,29,30,31
 #Explain these code smells - https://deviq.com/antipatterns/code-smells/
 
+
+#12/20/21
+#Do last 3 exercises of python practice
+#Do html tags
+#Identify codesmells in exercises 28,29,30,31 (use spreadsheet)
+#Look at PEP 8 and present that material

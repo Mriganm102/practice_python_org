@@ -28,10 +28,10 @@ class exercise_26():
         if game[3] == game[5] and game[5] == game[7]:
             print(f"Player{game[3]} has won")
     def __init__(self):
-        self.exercise26()
+        print(self.exercise26())
 def main():
     exercise26 = exercise_26()
 if __name__ == '__main__':
-    print(main())
+    main()
 
 
