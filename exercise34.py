@@ -1,6 +1,6 @@
 import json
 
-with open("../Huge_Fan/Learn_HTML/info.json", "r") as f:
+with open("info.json", "r") as f:
     info = json.load(f)
 
 

@@ -14,7 +14,6 @@ def months(name):
 months("Benjamin Franklin")
 months("Albert Einstein")
 months("Ada Lovelace")
-print(info1)
 info2 = Counter(info1)
 print(info2)
 list1 = []
@@ -22,8 +21,9 @@ for x in info2:
     y = (info2[x])
     list1.append(y)
 print(list1)
-p = figure()
-p.vbar(x=info1, top=list(list1), width=0.5)
+print(info1)
+p = figure(x_range=info1)
+p.vbar(x=info1, top=list1, width=0.5)
 show(p)
 
 

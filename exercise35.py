@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-with open("../Huge_Fan/Learn_HTML/info.json", "r") as f:
+with open("info.json", "r") as f:
     info = json.load(f)
 info1 = []
 birthday_counter = Counter(info)
