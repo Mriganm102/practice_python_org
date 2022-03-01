@@ -42,3 +42,43 @@
 #Do html tags
 #Identify codesmells in exercises 28,29,30,31 (use spreadsheet)
 #Look at PEP 8 and present that material
+
+
+
+#1/7/22
+#Do the last of HTML Tags
+##Identify codesmells in exercises 28,29,30,31 (use spreadsheet)
+#Get the textbook + read introduction
+#
+
+#1/10/22
+#Read Mathematical Statements
+#http://discrete.openmathbooks.org/dmoi3/sec_intro-statements.html
+#Do first 10 questions
+
+#1/24/22
+#Read till page 13
+#Do all of the exercises
+#Look at first chapter of interactive on web page
+
+#1/31/22
+#Look at first chapter of interactive on web page
+#Do the remaining odd exercises (30-54)
+#Check the exercises against the back of the book
+#Record Score
+#Have questions ready from the exercises
+#Write computer code for the truth tables
+#Pre-read sections 1.2 and 1.3, summarize
+#Write an all_combinations by hand (3 variables)
+
+#2/7/22
+#Odd problems for chapters 1.2 and 1.3
+#Pre read 1.4 and 1.5
+#Make truth tables for both sides of De Morgans laws in python
+#Make truth tables for both sides of Distributive laws laws in python
+#See whether tautology, contingency, or contradictions
+
+#2/14/22
+#Pre read 1.5 and 1.6
+#Do odd problems for 1.4
+#Have both sides of laws in the same class
