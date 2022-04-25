@@ -26,5 +26,10 @@ def power_set(set1):
 
 
 
-
+power_set({})
+power_set({"a"})
+power_set({1,2,3})
+power_set({'a', 'b', 'c', 'd'})
 power_set({1,2,3,4,5})
+power_set({'a', 'b', 'c', 'd','e', 'f'})
+power_set({1,2,3,4,5,6,7})
