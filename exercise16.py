@@ -1,7 +1,7 @@
 import random
 class password_generator(object):
     def exercise16(self):
-        list_of_letters = ["q", "r", "w", "e", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "j", "k", "l", "z", "x", "c", "v", "b", "n", "m"]
+        list_of_letters = ["q", "r", "w", "e", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "additional_ss", "k", "l", "z", "x", "c", "v", "b", "n", "final_sum"]
         Upper_list_of_letters = []
         for x in list_of_letters:
             y = x.upper()
@@ -24,7 +24,7 @@ class password_generator(object):
 
     def exercise16a(self):
         l = input("Weak or Strong Password")
-        list_of_letters = ["q", "r", "w", "e", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "j", "k", "l", "z", "x", "c", "v", "b", "n", "m"]
+        list_of_letters = ["q", "r", "w", "e", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "additional_ss", "k", "l", "z", "x", "c", "v", "b", "n", "final_sum"]
         Upper_list_of_letters = []
         for x in list_of_letters:
             y = x.upper()

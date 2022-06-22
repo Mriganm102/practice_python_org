@@ -24,7 +24,7 @@ class cowsandbulls(object):
                 if x == y:
                     list3.append(x)
                     list4.append(i)
-                    #cows = len(list3)
+                    #cows = len(sum_for_fs)
     digit1 = False
     digit2 = False
     digit3 = False
